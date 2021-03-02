@@ -105,7 +105,7 @@ nav {
     line-height: 80px;
 }
 
-.contenido-header {
+.inicio-header {
     width: 100%;
     height: 600px;
     display: flex;
@@ -113,7 +113,7 @@ nav {
     align-items: center;
 }
 
-.contenido-header>img {
+.inicio-header>img {
     width: 550px;
     animation: ease-in animat 1s;
 }
@@ -133,14 +133,14 @@ nav {
     margin: 0 0 0 30px;
 }
 
-.contenido-header p {
+.inicio-header p {
     font-weight: 100;
     margin-top: 14px;
     color: #000000;
 }
 
 
-.contenido-header a {
+.inicio-header a {
     margin: 28px 0 0 0;
     width: 180px;
     display: inline-block;
@@ -231,32 +231,32 @@ nav {
 }
 
 
-/* Aparatado de Balances */
+/* Aparatado de invertir */
 
 
-.balances {
+.invertir {
     height: 600px;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-.balances>img {
+.invertir>img {
     width: 550px;
 }
 
-.textos-balances {
+.textos-invertir {
     margin: 0 0 0 30px;
 }
 
-.textos-balances p {
+.textos-invertir p {
     font-weight: 100;
     margin-top: 14px;
     color: #000000;
 }
 
 
-.textos-balances a {
+.textos-invertir a {
     margin: 28px 0 0 0;
     width: 180px;
     display: inline-block;
