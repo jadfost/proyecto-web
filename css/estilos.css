@@ -177,13 +177,13 @@ nav {
     width: 49%;
     background: #fff;
     margin-bottom: 30px;
-    border-radius: 50px;
+    border-radius: 90px;
     padding: 45px 30px 60px 30px;
     transition: 0.5s;
 }
 
 .articulo:hover {
-    box-shadow: 0 4px 10px rgba(17, 29, 48, .26);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.26);
 }
 
 .articulo>i {
@@ -195,13 +195,14 @@ nav {
     height: 50px;
     text-align: center;
     padding-top: 20px;
-    border-radius: 10%;
+    border-radius: 50%;
     box-shadow: 0 8px 32px rgba(31, 50, 222, 0.46);
 }
 
 .articulo>h3 {
-    font-size: 24px;
-    margin-top: 30px;
+    color: #1f2aca;
+    font-size: 44px;
+    margin-top: 20px;
 }
 
 .articulo>p {
@@ -286,23 +287,23 @@ nav {
 
 .numbers .number {
     width: 45%;
-    background: rgba(251, 255, 0, 0.2);
-    color: #fff;
+    background: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
     border-radius: 90px;
     padding: 30px 35px;
     margin-bottom: 20px;
 }
 
 .numbers .number h4 {
-    color: #fff;
+    color: #1f2aca;
     font-size: 50px;
-    font-weight: 500;
+    font-weight: 300;
     margin-bottom: 20px;
 }
 
 .numbers .number p {
-    color: #f2f5fc;
-    font-weight: 300;
+    color: #0a0a0a;
+    font-weight: 500;
 }
 
 .precios-text {
