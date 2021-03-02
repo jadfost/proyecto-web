@@ -191,12 +191,11 @@ nav {
     color: #fff;
     background: #1f2aca;
     display: inline-block;
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 60px;
     text-align: center;
     padding-top: 20px;
     border-radius: 50%;
-    box-shadow: 0 8px 32px rgba(31, 50, 222, 0.46);
 }
 
 .articulo>h3 {
@@ -213,13 +212,21 @@ nav {
 }
 
 .articulo>a {
-    color: #000000;
-    font-weight: 400;
+    
+    color: #1f2aca;
+    font-weight: 700;
     text-decoration: none;
+    display: inline-block;
+    border: 1px solid rgb(24, 24, 24);
+    padding: 6px 0;
+    width: 400px;
+    text-align: center;
+    border-radius: 15px;
 }
 
 .articulo>a:hover {
     color: #1f2aca;
+    border-color: #1f2aca;
     transition: color .5s;
 }
 
@@ -330,5 +337,5 @@ nav {
     padding: 10px 0;
     width: 180px;
     text-align: center;
-    border-radius: 5px;
+    border-radius: 15px;
 }
