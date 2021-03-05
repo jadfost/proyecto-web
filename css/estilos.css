@@ -371,7 +371,7 @@ nav {
 
 /* ----------------------------------Footer--------------------------------------- */
 .footer {
-    padding:40px 0;
+    padding:0px 0;
     background-color:#1f2aca;
     color:#ffffff;
   }
@@ -395,13 +395,10 @@ nav {
     opacity:0.8;
   }
   
-  .footer ul a:hover {
-    opacity:1;
-  }
-  
   .footer .social {
     text-align:center;
-    padding-bottom:25px;
+    padding-bottom:5px;
+    padding-top: 20px;
   }
   
   .footer .social > a {
@@ -418,16 +415,12 @@ nav {
     opacity:0.75;
   }
   
-  .footer .social > a:hover {
-    opacity:0.9;
-  }
   .footer .footer-final {
-    padding:40px 0;
+    padding:20px 0;
     background-color:#0c0c0c;
-    color:#ffffff;
   }
   .footer .copyright {
-    margin-top:15px;
+    margin-top:0px;
     text-align:center;
     font-size:23px;
     color:rgb(240, 240, 240);
